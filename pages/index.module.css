@@ -1,0 +1,25 @@
+.odkaz {
+    color: grey;
+    margin: 61px;
+    font-family: Bahnschrift;
+}
+
+.tt {
+    color: rgba(255, 140, 0, 0.39);
+    background-color: black;
+    border: 1px solid rgba(255, 140, 0, 0.39);
+    display: inline-block;
+    margin: 100px 0 0 55px;
+
+
+
+
+
+}
+
+.ll {
+    margin: 61px;
+    color: grey;
+    
+}
+
